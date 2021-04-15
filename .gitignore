@@ -362,27 +362,3 @@ MigrationBackup/
 FodyWeavers.xsd
 
 ## Solution Specific
-SecureConnections.config
-SecureConnections.*.config
-
-Owin.Security.ActiveDirectoryLDAP/Host/Content/bootstrap.css
-Owin.Security.ActiveDirectoryLDAP/Host/Content/bootstrap.min.css
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/bootstrap.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/bootstrap.min.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery-3.6.0.intellisense.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery-3.6.0.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery-3.6.0.min.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery-3.6.0.min.map
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery-3.6.0.slim.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery-3.6.0.slim.min.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery-3.6.0.slim.min.map
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery.validate-vsdoc.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery.validate.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery.validate.min.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery.validate.unobtrusive.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/jquery.validate.unobtrusive.min.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/modernizr-2.8.3.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/respond.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/respond.matchmedia.addListener.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/respond.matchmedia.addListener.min.js
-Owin.Security.ActiveDirectoryLDAP/Host/Scripts/respond.min.js
